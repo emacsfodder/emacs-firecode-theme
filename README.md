@@ -1,14 +1,4 @@
 
-# emacs-firecode-theme
+# Emacs firecode theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-firecode-theme/raw/master/firecode-theme.png)
