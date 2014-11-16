@@ -1,8 +1,8 @@
 ;;; firecode-theme.el --- an Emacs 24 theme based on FireCode (tmTheme)
 ;;
-;;; Author: Auto Converted to Emacs 24 by tmtheme-to-deftheme (tm2deftheme)
-;;; Version: 1416104796
-;;; Original author: 
+;;; Author: Jason Milkins
+;;; Version: 20141116
+ 
 ;;; Url: https://github.com/emacsfodder/tmtheme-to-deftheme
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
